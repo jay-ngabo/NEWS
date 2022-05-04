@@ -1,4 +1,4 @@
-#!/home/geejay/Downloads/news!!/news-app/virtual/bin/python
+#!/home/geejay/Documents/news!!/news-app/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
