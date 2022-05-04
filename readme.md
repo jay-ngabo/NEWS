@@ -17,4 +17,4 @@
 
 ## CONTACT
 <P> Email: ngabo.jay@gmail.com</p>
-<p> phone :+254724764835
+<p> phone :+254724764835</p>
