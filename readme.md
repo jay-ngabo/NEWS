@@ -8,3 +8,5 @@
 
 ## Technology used
 <p>html</p>
+<p>python</p>
+
