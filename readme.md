@@ -5,4 +5,6 @@
 
 ## Author
 <h3> JACQUELINE NGABO</h3>
- 
+
+## Technology used
+<p>html</p>
