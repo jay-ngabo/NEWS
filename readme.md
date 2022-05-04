@@ -11,3 +11,4 @@
 <p>python</p>
 
 ## SETUP AND INSTALLATIONS
+<P>To install the above project you first download and install the needed softwares then run it on your local machine</p>
